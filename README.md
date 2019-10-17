@@ -1,2 +1,2 @@
-# GDG Gulu Devfast2019
-Machine learning in practice demos at GDG GULU DevFast 2019
+# GDG Gulu Devfest2019
+Machine learning in practice demos at GDG GULU DevFest 2019
