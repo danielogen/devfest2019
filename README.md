@@ -16,4 +16,4 @@ We will be using customer churn data from the telecom industry. The data file is
 * Artificial Neural Network
 ### Results
 * K-NN: 91.3% Accuracy
-* ANN: 93.8% Accuracy
+* ANN: 93.0% Accuracy
