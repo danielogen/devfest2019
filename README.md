@@ -5,3 +5,9 @@ Customer churn is a major problem and one of the most important concerns for lar
 ## Data
 We will be using customer churn data from the telecom industry. The data file is called 
 `Orange_Telecom_Churn_Data.csv`. We will load this data together, do some preprocessing, and use K-nearest neighbors to predict customer churn based on account characteristics.
+## Models
+* K-nearest neighbors
+* Artificial Neural Network
+### Results
+** K-NN: 91.3% Accuracy
+** ANN: 93.8% Accuracy
