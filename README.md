@@ -11,3 +11,5 @@ We will be using customer churn data from the telecom industry. The data file is
 ### Results
 * K-NN: 91.3% Accuracy
 * ANN: 93.8% Accuracy
+
+[License](https://github.com/danielogen/devfest2019/blob/add-license-1/LICENSE)
